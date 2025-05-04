@@ -23,7 +23,7 @@ Through this project I strengthened my skills in:
 
 ## 🚀 Screenshot
 
-![Screenshot](screenshot.jpg)
+![Screenshot](Screenshot 2025-05-04 at 9.58.33.png)
 
 ## 🔍 Note
 
